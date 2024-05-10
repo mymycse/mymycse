@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=mycse24)](https://solved.ac/mycse24)
 
 <!--
 **mymycse/mymycse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
